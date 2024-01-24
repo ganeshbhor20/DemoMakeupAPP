@@ -1,0 +1,38 @@
+/* src/components/Home.css */
+.brand-list {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 60px;
+  padding: 0;
+  list-style: none;
+}
+
+.brand-item {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('C:/Assignment/makeup-app/image.jpg');
+  background-size: cover;
+  filter: blur(60%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-container {
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+.login-button:hover {
+  background-color: red; /* Change to your desired hover color */
+  color: red; /* Change to your desired text color on hover */
+}
