@@ -1,0 +1,35 @@
+# Demo Makeup App
+
+Welcome to the Demo Makeup App! This simple React app showcases a list of makeup brands and provides information about each brand's products.
+
+## Getting Started
+
+To access the app, follow these steps:
+
+1. Visit the app's deployment link: [Demo Makeup App](https://ganeshbhor20.github.io/DemoMakeupAPP/)
+
+2. Use the following credentials to log in:
+   - **Username:** demo
+   - **Password:** 123456
+
+## Features
+
+- **Login Page:** Log in using the provided credentials.
+- **Home Page:** View a list of available makeup brands.
+- **Brand Information Page:** Click on a brand to see detailed information about its products.
+
+## Technologies Used
+
+- React
+- Material-UI
+- Axios (for API requests)
+- React Router (for navigation)
+- React Toastify (for notifications)
+
+## Local Development
+
+If you want to run the app locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ganeshbhor20/DemoMakeupAPP.git
